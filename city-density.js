@@ -3,10 +3,9 @@ import * as Plot from "@observablehq/plot";
 import cityDensity from "/city-density.json?url";
 import urbanRural from "/urban-rural.json?url";
 
-import { format } from 'd3-format';
 
 // wait for the document to be fully loaded
-document.addEventListener("DOMContentLoaded", function () {
+// document.addEventListener("DOMContentLoaded", function () {
     // create a plot using the JSON data
     const topCities = cityDensity.slice(0, 20);
 
@@ -65,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-});
+// });
 
 
 
