@@ -12,7 +12,7 @@ const popScale = d3.scaleLinear()
 
 
 // wait to load in json data 
-d3.json("/data.json").then(function(data){
+d3.json("/data.json?url").then(function(data){
     // area graph calculation
     const area = d3.area()
         .x0((d,i)=>{return popScale(d["2020"])})
