@@ -1,7 +1,7 @@
 import * as d3 from "d3";
 import * as Plot from "@observablehq/plot";
-import cityDensity from "./src/city-density.json";
-import urbanRural from "./src/urban-rural.json";
+import cityDensity from "/city-density.json";
+import urbanRural from "/urban-rural.json";
 
 import { format } from 'd3-format';
 
