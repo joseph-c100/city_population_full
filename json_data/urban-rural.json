@@ -1,0 +1,436 @@
+[
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1960,
+    "Urban population": 1018346900,
+    "Rural population": 2012266800
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1961,
+    "Urban population": 1047059196,
+    "Rural population": 2024481200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1962,
+    "Urban population": 1079093102,
+    "Rural population": 2046843300
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1963,
+    "Urban population": 1114097698,
+    "Rural population": 2078384600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1964,
+    "Urban population": 1149993775,
+    "Rural population": 2109469300
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1965,
+    "Urban population": 1181126807,
+    "Rural population": 2146075000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1966,
+    "Urban population": 1212826826,
+    "Rural population": 2184623400
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1967,
+    "Urban population": 1245143597,
+    "Rural population": 2222173200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1968,
+    "Urban population": 1278269071,
+    "Rural population": 2260817200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1969,
+    "Urban population": 1312244276,
+    "Rural population": 2301227800
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1970,
+    "Urban population": 1346710018,
+    "Rural population": 2342372000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1971,
+    "Urban population": 1382655488,
+    "Rural population": 2384114700
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1972,
+    "Urban population": 1418608135,
+    "Rural population": 2423803100
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1973,
+    "Urban population": 1455947299,
+    "Rural population": 2462838000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1974,
+    "Urban population": 1494685682,
+    "Rural population": 2499940900
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1975,
+    "Urban population": 1531838269,
+    "Rural population": 2536900600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1976,
+    "Urban population": 1570131253,
+    "Rural population": 2571656400
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1977,
+    "Urban population": 1608913768,
+    "Rural population": 2605590000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1978,
+    "Urban population": 1651535788,
+    "Rural population": 2636911600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1979,
+    "Urban population": 1698389133,
+    "Rural population": 2665963000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1980,
+    "Urban population": 1746597581,
+    "Rural population": 2694314200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1981,
+    "Urban population": 1796691530,
+    "Rural population": 2722739700
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1982,
+    "Urban population": 1846604858,
+    "Rural population": 2754568000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1983,
+    "Urban population": 1895627253,
+    "Rural population": 2787689500
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1984,
+    "Urban population": 1945643514,
+    "Rural population": 2819413000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1985,
+    "Urban population": 1997054715,
+    "Rural population": 2851408400
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1986,
+    "Urban population": 2050400658,
+    "Rural population": 2883961600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1987,
+    "Urban population": 2105499909,
+    "Rural population": 2917112300
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1988,
+    "Urban population": 2161590919,
+    "Rural population": 2950087000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1989,
+    "Urban population": 2217844389,
+    "Rural population": 2983001000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1990,
+    "Urban population": 2275576715,
+    "Rural population": 3016050200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1991,
+    "Urban population": 2333701812,
+    "Rural population": 3047027500
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1992,
+    "Urban population": 2391631835,
+    "Rural population": 3076684000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1993,
+    "Urban population": 2449347491,
+    "Rural population": 3105380900
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1994,
+    "Urban population": 2507390396,
+    "Rural population": 3132712000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1995,
+    "Urban population": 2565653779,
+    "Rural population": 3159089700
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1996,
+    "Urban population": 2624424124,
+    "Rural population": 3185112600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1997,
+    "Urban population": 2683939855,
+    "Rural population": 3210022700
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1998,
+    "Urban population": 2744145319,
+    "Rural population": 3233590000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1999,
+    "Urban population": 2804643704,
+    "Rural population": 3255847000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2000,
+    "Urban population": 2866001986,
+    "Rural population": 3276591000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2001,
+    "Urban population": 2931982375,
+    "Rural population": 3292625700
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2002,
+    "Urban population": 3001375881,
+    "Rural population": 3304983300
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2003,
+    "Urban population": 3071458625,
+    "Rural population": 3316189400
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2004,
+    "Urban population": 3142901966,
+    "Rural population": 3326182000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2005,
+    "Urban population": 3215717849,
+    "Rural population": 3335114500
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2006,
+    "Urban population": 3289337823,
+    "Rural population": 3343844000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2007,
+    "Urban population": 3363570859,
+    "Rural population": 3352302600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2008,
+    "Urban population": 3439970487,
+    "Rural population": 3359655000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2009,
+    "Urban population": 3516826565,
+    "Rural population": 3366866700
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "Urban population": 3593889101,
+    "Rural population": 3373930800
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2011,
+    "Urban population": 3668565395,
+    "Rural population": 3383140600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2012,
+    "Urban population": 3745429795,
+    "Rural population": 3393622800
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2013,
+    "Urban population": 3824116789,
+    "Rural population": 3403214000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2014,
+    "Urban population": 3904237467,
+    "Rural population": 3411423200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "Urban population": 3985184642,
+    "Rural population": 3417903000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "Urban population": 4066384935,
+    "Rural population": 3423736800
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "Urban population": 4147418821,
+    "Rural population": 3428913400
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2018,
+    "Urban population": 4227439914,
+    "Rural population": 3432505600
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "Urban population": 4306260787,
+    "Rural population": 3434599200
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2020,
+    "Urban population": 4383714769,
+    "Rural population": 3435444000
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2021,
+    "Urban population": 4454152526,
+    "Rural population": 3432438300
+  }
+]

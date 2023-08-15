@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>The Changing Faces of City Populations</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <section id="hero-section">
+            <div id="hero-text">
+                <h1>The Changing Faces of City Populations</h1>
+                <h4>More than half the world now live in cities.</h4>
+                <p> For most of human history, most people across the world lived in small communities. 
+                    Over the past few centuries – and particularly in recent decades – this has shifted dramatically. 
+                    There has been a mass migration of populations from rural to urban areas. 
+                </p>
+            </div>
+        </section>
+
+        <section id="cities-section">
+            <div class="chart-header">
+                <div>
+                    <span id="fifty">1950</span>
+                    <span id="fifteen">2015</span>
+                    <span id="twenty">2020</span>
+                    <span id="future">2035</span>
+                </div>
+    
+                <form>
+                    <select>
+                        <option value="az">A-Z</option>
+                        <option value="1950pop">1950 population</option>
+                        <option value="2020pop">2020 population</option>
+                        <option value="difference">Absolute Change 2020 - 2035</option>
+                    </select>
+                </form>
+            </div>
+
+            <svg class="cityChart"></svg>
+
+            <div class="addedText">            
+                <a href="https://ourworldindata.org/urbanization">Source: Our World in Data</a>
+                <p>Delhi is projected to have the largest absolute change in population from 2020 to 2035. Tokyo, on 
+                    the other hand will have a smaller population in the future than they do now.</p>
+            </div>
+
+            
+
+        </section>
+
+        <section id="density-section">
+
+            <div>
+                <h2>Sparse to Sprawl - population density around the world</h2>
+                <p>Countries with over <span class="counter">0.0</span>people per km2</p>
+                <p>Move slider to filter by density</p>
+                <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density">Source</a>
+
+            </div>
+            <input type="range" min = 0 max = 400 id="slider">
+            <svg class="densityMap"></svg>
+
+
+        </section>
+
+        <section id="urban-section">
+            <div id = "urbanSectionText">
+                <h2>Homesteads to Highrises</h2>
+                <p>
+                    Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population. 
+                </p>
+                <p>
+                    Increasingly more and more people are moving to cities. The UN estimates this milestone event – when the number of people in urban areas overtook the number in rural settings – occurred in 2007.
+                </p>
+                <a href="https://ourworldindata.org/grapher/urban-and-rural-population?tab=table">Source</a>
+
+            </div>
+
+            <div class="migrationCharts">
+                <div id="migrationChart1"></div>
+                <div id="migrationChart2"></div>
+            </div>
+        </section>
+
+        <footer>
+            <p>Credit to OurWorldInData for facts and statistical data. 3D model by Oleksandr Moroz - Sketchfab. Designed and built by Joseph C using D3, Three.js and Observable Plot.</p>
+        </footer>
+
+        <script type ="module" src="scripts/pop.js"></script>
+        <script type="module" src="scripts/map.js"></script>
+        <script type="module" src="scripts/city_model.js"></script>
+        <script type="module" src="scripts/city-density.js"></script>
+    </body>
+</html>

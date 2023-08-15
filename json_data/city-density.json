@@ -1,0 +1,602 @@
+[
+  {
+    "Entity": "Abidjan",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 14700
+  },
+  {
+    "Entity": "Accra",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4300
+  },
+  {
+    "Entity": "Ahmedabad",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 19800
+  },
+  {
+    "Entity": "Alexandria",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 15600
+  },
+  {
+    "Entity": "Ankara",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6500
+  },
+  {
+    "Entity": "Atlanta",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 700
+  },
+  {
+    "Entity": "Baghdad",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9700
+  },
+  {
+    "Entity": "Bandung",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 12400
+  },
+  {
+    "Entity": "Bangalore",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8200
+  },
+  {
+    "Entity": "Bangkok",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6100
+  },
+  {
+    "Entity": "Barcelona",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4300
+  },
+  {
+    "Entity": "Beijing",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5100
+  },
+  {
+    "Entity": "Belo Horizonte",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4100
+  },
+  {
+    "Entity": "Berlin",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3000
+  },
+  {
+    "Entity": "Bogota",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 16600
+  },
+  {
+    "Entity": "Boston",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 800
+  },
+  {
+    "Entity": "Buenos Aires",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5300
+  },
+  {
+    "Entity": "Busan",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9900
+  },
+  {
+    "Entity": "Cairo",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8600
+  },
+  {
+    "Entity": "Chengdu",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8100
+  },
+  {
+    "Entity": "Chennai",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9700
+  },
+  {
+    "Entity": "Chicago",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1300
+  },
+  {
+    "Entity": "Chongqing",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 7700
+  },
+  {
+    "Entity": "Dalian",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5000
+  },
+  {
+    "Entity": "Dallas",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1200
+  },
+  {
+    "Entity": "Dar es Salaam",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6900
+  },
+  {
+    "Entity": "Delhi",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 11600
+  },
+  {
+    "Entity": "Dhaka",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 44000
+  },
+  {
+    "Entity": "Dongguan",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5400
+  },
+  {
+    "Entity": "Essen",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2500
+  },
+  {
+    "Entity": "Guadalajara",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5900
+  },
+  {
+    "Entity": "Guangzhou",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5300
+  },
+  {
+    "Entity": "Hangzhou",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5600
+  },
+  {
+    "Entity": "Harbin",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8900
+  },
+  {
+    "Entity": "Ho Chi Minh City",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6400
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 2011,
+    "Population density by city": 25700
+  },
+  {
+    "Entity": "Houston",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1200
+  },
+  {
+    "Entity": "Hyderabad",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8000
+  },
+  {
+    "Entity": "Istanbul",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9800
+  },
+  {
+    "Entity": "Jakarta",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9600
+  },
+  {
+    "Entity": "Johannesburg",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3100
+  },
+  {
+    "Entity": "Karachi",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6120
+  },
+  {
+    "Entity": "Khartoum",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5400
+  },
+  {
+    "Entity": "Kinshasa",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 16700
+  },
+  {
+    "Entity": "Kolkota",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 12400
+  },
+  {
+    "Entity": "Kuala Lumpur",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3400
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2014,
+    "Population density by city": 5500
+  },
+  {
+    "Entity": "Kyoto",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5400
+  },
+  {
+    "Entity": "Lagos",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 13800
+  },
+  {
+    "Entity": "Lahore",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 11300
+  },
+  {
+    "Entity": "Lima",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 11300
+  },
+  {
+    "Entity": "London",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5800
+  },
+  {
+    "Entity": "Los Angeles",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2400
+  },
+  {
+    "Entity": "Luanda",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6300
+  },
+  {
+    "Entity": "Madrid",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4700
+  },
+  {
+    "Entity": "Manila",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 14400
+  },
+  {
+    "Entity": "Medan",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8300
+  },
+  {
+    "Entity": "Melbourne",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1500
+  },
+  {
+    "Entity": "Mexico City",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9800
+  },
+  {
+    "Entity": "Miami",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1800
+  },
+  {
+    "Entity": "Milan",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2800
+  },
+  {
+    "Entity": "Monterey",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4400
+  },
+  {
+    "Entity": "Moscow",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3400
+  },
+  {
+    "Entity": "Mumbai",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 32300
+  },
+  {
+    "Entity": "Nagoya",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2700
+  },
+  {
+    "Entity": "Nairobi",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8400
+  },
+  {
+    "Entity": "Nanjing",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5000
+  },
+  {
+    "Entity": "New York",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1800
+  },
+  {
+    "Entity": "Paris",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3900
+  },
+  {
+    "Entity": "Philadelphia",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1100
+  },
+  {
+    "Entity": "Phoenix",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1300
+  },
+  {
+    "Entity": "Pune",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 11200
+  },
+  {
+    "Entity": "Qingdao",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3600
+  },
+  {
+    "Entity": "Quanzhou",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4200
+  },
+  {
+    "Entity": "Rio de Janeiro",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5800
+  },
+  {
+    "Entity": "Riyadh",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3500
+  },
+  {
+    "Entity": "Rome",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3400
+  },
+  {
+    "Entity": "San Francisco",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2100
+  },
+  {
+    "Entity": "Santiago",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6300
+  },
+  {
+    "Entity": "Sao Paulo",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 7100
+  },
+  {
+    "Entity": "Seoul",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 10100
+  },
+  {
+    "Entity": "Shanghai",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6200
+  },
+  {
+    "Entity": "Shenyang",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6200
+  },
+  {
+    "Entity": "Shenzhen",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 7400
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2014,
+    "Population density by city": 10500
+  },
+  {
+    "Entity": "St. Petersburg",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 3800
+  },
+  {
+    "Entity": "Surabaya",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 7500
+  },
+  {
+    "Entity": "Surat",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 21000
+  },
+  {
+    "Entity": "Suzhou",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4000
+  },
+  {
+    "Entity": "Sydney",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2000
+  },
+  {
+    "Entity": "Taipei",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6400
+  },
+  {
+    "Entity": "Tehran",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 9900
+  },
+  {
+    "Entity": "Tianjin",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 5000
+  },
+  {
+    "Entity": "Tokyo",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 4400
+  },
+  {
+    "Entity": "Toronto",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 2800
+  },
+  {
+    "Entity": "Washington",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 1400
+  },
+  {
+    "Entity": "Wuhan",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 7000
+  },
+  {
+    "Entity": "Xi'an",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6400
+  },
+  {
+    "Entity": "Yangon",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 8700
+  },
+  {
+    "Entity": "Zhengzhou",
+    "Code": "",
+    "Year": 2014,
+    "Population density by city": 6600
+  }
+]
