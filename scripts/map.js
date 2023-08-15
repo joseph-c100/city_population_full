@@ -22,8 +22,8 @@ const colorScale = d3.scaleSequentialPow(d3.interpolateMagma)
 
 
 // load data.json then load world geojson
-d3.json("../public/density.json").then(function(data){
-    d3.json("../public/world-110m2.json").then(function(mapData){
+d3.json("./density.json").then(function(data){
+    d3.json("./world-110m2.json").then(function(mapData){
 
         const slider = document.getElementById("slider")
 
