@@ -37,7 +37,7 @@ controls.maxPolarAngle = Math.PI / 2
 const loader = new GLTFLoader();
 let model;
 
-loader.load( './public/low_city.glb', function ( gltf ) {
+loader.load( '/low_city.glb', function ( gltf ) {
 
     model = gltf.scene;
     scene.add(model);
