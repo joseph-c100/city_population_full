@@ -6,6 +6,7 @@
     --2020: #3c6135;
     --2035: #e06c2e;
     --highlight: rgba(0,0,0,0.05);
+    --text-backround: rgb(237, 237, 251);
 }
 
 body {
@@ -56,7 +57,7 @@ section #hero-text {
     top: 0;
     left: 50%;
     padding: 40px;
-    background-color: rgb(237, 237, 251);
+    background-color: var(--text-backround);
     opacity: 0.94;
 }
 
@@ -79,7 +80,7 @@ section #hero-text {
 }
 
 #density-section {
-    background-color: #e7e7e7;
+    background-color: var(--text-backround);
 } 
 
 .chart-header {
@@ -101,9 +102,9 @@ section #hero-text {
 }
 
 select {
-    padding: 1px;
+    padding: 4px;
     max-width: 300px;
-    background: none;
+    background: var(--text-backround);
     border-radius: 4px;
 }
 
