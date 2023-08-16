@@ -1,5 +1,5 @@
 import * as d3 from "d3";
-import * as Plot from "@observablehq/plot";
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
 
 d3.json("/city-density.json?url").then(function(cityDensity){
     // show only top 20 cities
