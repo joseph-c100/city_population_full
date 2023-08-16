@@ -13,7 +13,7 @@ let scene = new THREE.Scene();
 let camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 100, 10000 );
 
 // background
-scene.background = new THREE.Color( 0xf8f8ec);
+scene.background = new THREE.Color( 0xfbf3f3);
 
 
 // set renderer to window size

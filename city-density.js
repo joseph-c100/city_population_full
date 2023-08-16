@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
         
         const plotFirst = Plot.plot({
             style: {
-                backgroundColor: "#f8f8ec",
+                backgroundColor: "var(--background)",
                 fontSize: "16"
             },
             y: {
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
             marginBottom: 80,
             color: { legend: true },
             style: {
-                backgroundColor: "#f8f8ec",
+                backgroundColor: "var(--background)",
                 fontSize: "16"
             },
             y: {
