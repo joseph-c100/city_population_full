@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
         chart1.append(plotFirst);
     
     })
-    
+
     d3.json("/urban-rural.json?url").then(function(urbanRural){
         const plotSecond = Plot.plot({
             marginBottom: 80,
@@ -57,4 +57,5 @@ document.addEventListener("DOMContentLoaded", function() {
         chart2.append(plotSecond);
     
     })
+
 });
