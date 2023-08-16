@@ -94,9 +94,11 @@ function onWindowResize() {
 function animate() {
 	requestAnimationFrame( animate );
 
-    model.rotation.y += 0.0005;
-    
-	renderer.render( scene, camera );
+    if (model) {
+        model.rotation.y += 0.0005;
+    }
+
+    renderer.render(scene, camera);
     controls.update();
 }
 
