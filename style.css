@@ -267,6 +267,10 @@ line.gridLine {
         margin: 20px auto 20px auto;
     }
 
+    p {
+        font-size: 14px;
+    }
+
     form {
         margin-top: 8px;
     }
@@ -281,6 +285,13 @@ line.gridLine {
 
     section {
         margin-bottom: 20px;
+        padding: 10px 40px 10px 40px;
+    }
+
+    .chart-header {
+        border-bottom: solid 1px var(--black);
+        display: block;
+
     }
 
 
@@ -313,9 +324,12 @@ line.gridLine {
         padding: 14px;
     }
 
-    /* no hover labels for mobile */
+    /* no hover labels for mobile
     g:hover text.popLabel {
         opacity: 0;
+    } */
+    footer {
+        padding: 2px 40px 2px 40px;
     }
 }
 
