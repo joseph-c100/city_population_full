@@ -23,54 +23,6 @@
             </div>
         </section>
 
-        <section id="cities-section">
-            <h2>City Population Change 1950 - 2035</h2>
-            <div class="chart-header">
-                <div>
-                    <span class ="year" id="fifty">1950</span>
-                    <span class ="year" id="fifteen">2015</span>
-                    <span class ="year" id="twenty">2020</span>
-                    <span class ="year" id="future">2035</span>
-                </div>
-    
-                <form>
-                    <select>
-                        <option value="az">A-Z</option>
-                        <option value="1950pop">Descending 1950 population</option>
-                        <option value="2020pop">Descending 2020 population</option>
-                        <option value="difference">Absolute Change in population 2020 - 2035</option>
-                    </select>
-                </form>
-            </div>
-
-            <svg class="cityChart"></svg>
-
-            <div class="addedText">            
-                <a href="https://ourworldindata.org/urbanization">Source: Our World in Data</a>
-                <p>Delhi is projected to have the largest absolute change in population from 2020 to 2035. Tokyo, on 
-                    the other hand will have a smaller population in the future than they do now.</p>
-            </div>
-
-            
-
-        </section>
-
-        <section id="density-section">
-
-            <div>
-                <h2>Sparse to Sprawl</h2>
-                <h3>Population density by country</h3>
-                <p>Countries with over <span class="counter">0.0</span>people per km2</p>
-                <p>Move slider to filter by density</p>
-            </div>
-
-            <input type="range" min = 0 max = 400 id="slider">
-            <svg class="densityMap"></svg>
-            <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density">Source</a>
-
-
-        </section>
-
         <section id="urban-section">
             <div id = "urbanSectionText">
                 <h2>Homesteads to Highrises</h2>
@@ -89,6 +41,55 @@
                 <div id="migrationChart2"></div>
             </div>
         </section>
+
+        <section id="cities-section">
+            <div id="cities-chart">
+                <h2>City Population Change 1950 - 2035</h2>
+                <div class="chart-header">
+                    <div>
+                        <span class ="year" id="fifty">1950</span>
+                        <span class ="year" id="fifteen">2015</span>
+                        <span class ="year" id="twenty">2020</span>
+                        <span class ="year" id="future">2035</span>
+                    </div>
+        
+                    <form>
+                        <select>
+                            <option value="az">A-Z</option>
+                            <option value="1950pop">Descending 1950 population</option>
+                            <option value="2020pop">Descending 2020 population</option>
+                            <option value="difference">Absolute Change in population 2020 - 2035</option>
+                        </select>
+                    </form>
+                </div>
+    
+                <svg class="cityChart"></svg>
+    
+                <div class="addedText">            
+                    <a href="https://ourworldindata.org/urbanization">Source: Our World in Data</a>
+                    <p>Delhi is projected to have the largest absolute change in population from 2020 to 2035. Tokyo, on 
+                        the other hand will have a smaller population in the future than they do now.</p>
+                </div>
+            </div>    
+        </section>
+
+        <section id="density-section">
+
+            <div>
+                <h2>Sparse to Sprawl</h2>
+                <h3>Population density by country</h3>
+                <p>Countries with over <span class="counter">0.0</span>people per km2</p>
+                <p>Move slider to filter by density</p>
+                <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density">Source</a>
+            </div>
+
+            <input type="range" min = 0 max = 400 id="slider">
+            <svg class="densityMap"></svg>
+
+
+        </section>
+
+        
 
         <footer>
             <p>Credit to OurWorldInData for facts and statistical data. 3D model by Oleksandr Moroz - Sketchfab. Designed and built by Joseph C using D3, Three.js and Observable Plot.</p>
