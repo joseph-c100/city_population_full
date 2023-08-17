@@ -317,10 +317,12 @@ line.gridLine {
 
     .migrationCharts {
         display: block;
+        padding: 0px;
     }
     
     #migrationChart1, #migrationChart2 {
-        width: 90%;
+        margin: 10px auto 10px auto;
+        width: 80%;
         height: auto;
     }
 
