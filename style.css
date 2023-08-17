@@ -113,6 +113,15 @@ footer p {
     width: 20%;
 }
 
+.mapLegendItem {
+    display: flex;
+    align-items: center;
+}
+
+.mapLegendItem svg {
+    margin-right: 10px;
+}
+
 
 select {
     padding: 4px;
@@ -168,7 +177,6 @@ svg {
 }
 
 span {
-    margin: 0 10px 0 0px;
     font-weight: 800;
 }
 

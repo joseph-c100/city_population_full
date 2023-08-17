@@ -44,8 +44,19 @@
 
         <section class="hero-section" id="populationMap">
             <div id="mapLegend">
-                <p>Red Cirlces - Cities with over 10M inhabitants</p>
-                <p>Blue Diamonds - Cities with over 20M inhabitants</p>
+                <div class="mapLegendItem">
+                    <svg width="16px" height="16px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="8" cy="8" r="8" fill="#b14b4d" />                    
+                    </svg>
+                    <p>Cities with over <span>10M</span> inhabitants</p>
+                </div>
+                <div class="mapLegendItem">
+                    <svg width="16px" height="16px" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <polygon points="50,0 100,50 50,100 0,50" fill="#467cb6" />
+                    </svg>
+                    <p>Cities with over <span>20M</span> inhabitants</p>
+                </div>
+
             </div>
             <img src="/map.webp?url" alt="">
         </section>
@@ -56,7 +67,7 @@
             <div>
                 <h2>Sparse to Sprawl</h2>
                 <h3>Population density by country</h3>
-                <p>Countries with over <span class="counter">0.0</span>people per km2</p>
+                <p>Countries with over <span class="counter">0.0</span> people per km2</p>
                 <p>Move slider to filter by density</p>
                 <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density">Source</a>
             </div>
