@@ -27,6 +27,10 @@ container.appendChild( renderer.domElement );
 let controls = new OrbitControls( camera, renderer.domElement );
 controls.enableZoom = false;
 
+controls.enableDamping = true;
+controls.dampingFactor = 0.05;
+
+
 
 
 // // stop camera going below ground
@@ -37,7 +41,7 @@ controls.maxPolarAngle = Math.PI / 2
 const loader = new GLTFLoader();
 let model;
 
-loader.load( '/low_city.glb', function ( gltf ) {
+loader.load( '/tokyo1.glb', function ( gltf ) {
 
     model = gltf.scene;
     scene.add(model);
@@ -55,13 +59,13 @@ const light = new THREE.DirectionalLight( 0xFFFFFF );
 scene.add( light );
 
 // set default camera position
-camera.position.x = -1914;
-camera.position.y = 387;
-camera.position.z = -431;
+camera.position.x = -1254;
+camera.position.y = 229;
+camera.position.z = -875;
 
-camera.rotation.x = -2.409;
-camera.rotation.y = -1.276;
-camera.rotation.z = -2.43;
+camera.rotation.x = -2.88;
+camera.rotation.y = -0.94;
+camera.rotation.z = -2.93;
 
 
 
