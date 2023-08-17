@@ -5,7 +5,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
 
 
-const container = document.getElementById("hero-section")
+const container = document.getElementById("modelContainer")
 
 
 // set scene and camera variables

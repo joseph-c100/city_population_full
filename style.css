@@ -1,5 +1,6 @@
 :root {
     --background: #fbf3f3;
+    --background-light:#f1f1f1;
     --black: #1c1c20;
     --1950: #E4160D;
     --2015: #177A7D;
@@ -39,10 +40,13 @@ a {
     color: var(--black);
 }
 
+img {
+    width: 100%;
+}
+
 section {
     max-width: 100%;
     padding: 40px 60px 40px 60px;
-    margin-bottom: 40px;
 }
 
 footer {
@@ -54,14 +58,18 @@ footer p {
     font-size: 11px;
 }
 
-#hero-section {
-    height: 100vh;
+.hero-section {
     max-width: 100vw;
     padding: 0;
+}
+
+#modelContainer {
+    height: 100vh;
     overflow: hidden;
 }
 
-section #hero-text {
+
+#hero-text {
     position: absolute;
     top: 0;
     left: 50%;
@@ -76,17 +84,14 @@ section #hero-text {
 }
 
 #cities-section{
-    background-color: #f1f1f1;
-}
-
-.cityChart {
-    margin-bottom: 40px;
+    background-color: var(--background-light);
+    max-width: 100%;
 }
 
 .chart-header {
     padding: 10px 10px 20px 10px;
     margin-bottom: 20px;
-    background-color: #f1f1f1;
+    background-color: var(--background-light);
 
     border-bottom: solid 1.5px var(--black);
 
@@ -101,18 +106,12 @@ section #hero-text {
     z-index: 1;
 }
 
-#urban-section{
-    margin-bottom: 100px;
+#mapLegend {
+    position: absolute;
+    background-color: var(--background-light);
+    padding: 20px;
+    width: 20%;
 }
-
-#urbanSectionText {
-    margin-bottom: 40px;
-    max-width: 70%;
-}
-
-#density-section {
-} 
-
 
 
 select {
@@ -160,11 +159,11 @@ svg {
 .migrationCharts {
     display: flex;
     justify-content: space-between;
+    padding: 40px;
 }
 
 #migrationChart1, #migrationChart2 {
     width: 50%;
-    height: 200px;
     padding: 40px;
 }
 
@@ -264,7 +263,8 @@ path.orange {
 
 .addedText {
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 40px;
+    max-width: 50%;
 }
 
 path.area {
@@ -300,8 +300,7 @@ line.gridLine {
     }
 
     section {
-        margin-bottom: 20px;
-        padding: 10px 40px 10px 40px;
+        padding: 20px 40px 20px 40px;
     }
 
     .chart-header {
@@ -321,20 +320,31 @@ line.gridLine {
     }
     
     #migrationChart1, #migrationChart2 {
-        width: 80%;
+        width: 90%;
         height: auto;
-        margin: 20px auto 20px auto;
-        padding: 40px;
     }
 
     #urban-section{
         margin-bottom: 0px;
     }
 
-    #urbanSectionText {
-        margin-bottom: 40px;
+    .addedText {
+        padding: 10px;
         max-width: 100%;
     }
+    
+    #mapLegend {
+        /* display: block; */
+        position: static;
+        padding: 10px;
+        width: 100%;
+    }
+
+    #mapLegend p {
+        font-size: 10px;
+    }
+
+
 
     header {
         display: block;
@@ -348,5 +358,16 @@ line.gridLine {
     footer {
         padding: 2px 40px 2px 40px;
     }
+}
+
+@media (min-width: 1400px) {
+
+    section {
+        max-width: 1200px;
+        margin: 20px auto 20px auto;
+        padding: 20px 40px 20px 40px;
+    }
+
+
 }
 
