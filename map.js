@@ -70,8 +70,8 @@ d3.json("/density.json?url").then(function(data){
             .append("path")
             .attr("d", mapGenerator)
             .style("fill", (d,i)=>{
+                // check that country name in density dataset matches with name of country in map dataset
                 const country = data.find((country)=>{ return country.name == d.properties.name})
-
 
                 if (country && country.density > initialThreshold) {
                     return colorScale(country.density)
