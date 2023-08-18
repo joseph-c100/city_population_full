@@ -20,6 +20,35 @@ const colorScale = d3.scaleSequentialPow(d3.interpolateMagma)
     .domain([2000,0])
     .exponent(0.3)
 
+    const legend = svgMap.append("g")
+    .attr("class", "legend")
+    .attr("transform", "translate(0, 50)");
+
+// create legend
+const legendWidth = 20;
+const legendHeight = 14;
+const legendData = [0, 10, 20, 50, 100, 200, 400]; 
+
+legend.selectAll("rect")
+    .data(legendData)
+    .enter()
+    .append("rect")
+    .attr("x", 0)
+    .attr("y", (d, i) => i * (legendHeight + 5))
+    .attr("width", legendWidth)
+    .attr("height", legendHeight)
+    .attr("fill", d => colorScale(d));
+
+// legend labels
+legend.selectAll("text")
+    .data(legendData)
+    .enter()
+    .append("text")
+    .style("font-size", "10px")
+    .attr("x", legendWidth + 5)
+    .attr("y", (d, i) => i * (legendHeight + 5) + legendHeight / 2)
+    .text(d => "> " + d);
+
 
 // load data.json then load world geojson
 d3.json("/density.json?url").then(function(data){
